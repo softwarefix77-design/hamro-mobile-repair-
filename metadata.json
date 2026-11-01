@@ -1,0 +1,7 @@
+{
+  "name": "Hamro Mobile Repair",
+  "description": "Fast & reliable mobile repair service on Shani Mandir Road, Biratnagar with customer booking, live status tracking, and instant price estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
